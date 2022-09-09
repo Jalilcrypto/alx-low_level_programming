@@ -4,7 +4,6 @@
 
 /**
 * Description: main - print the last digit stored in the variable n.
-*
 * Return: 0 after printing function
 */
 int main(void)
