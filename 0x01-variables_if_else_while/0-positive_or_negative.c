@@ -7,13 +7,8 @@
 
 
 /**
-
  * Description: main - print string positive or negative
-
- *
-
  * Return: Always 0 (Success)
-
  */
 
 int main(void)
