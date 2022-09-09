@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
-* description: main - print string using the put function
-* return: always 0 (success)
+* Description: main - print out a string 
+* Return: 0 if successful
 */
 int main(void)
 {
