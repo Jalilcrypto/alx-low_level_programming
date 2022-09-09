@@ -29,6 +29,6 @@ else
 
 	printf("Last digit of %d is %d and is greater than 5\n", n, u);
 
-return (0);
+	return (0);
 
 }
