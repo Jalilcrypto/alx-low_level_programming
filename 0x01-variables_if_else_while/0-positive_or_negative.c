@@ -8,7 +8,7 @@
 
 /**
 
- * main - Entry point
+ * Description: main - print string positive or negative
 
  *
 
